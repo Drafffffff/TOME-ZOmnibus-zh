@@ -1,0 +1,90 @@
+{
+  "upstream_sha256": "eafd69aa6031360d2162c74e50ca61c4256c29a6c3bd67141f7533e94fc2a9e2",
+  "output_sha256": "37fdd2917125dc7d041d776eb63319c0ee92c32a8ed938494239db61e00b91d9",
+  "translations": 792,
+  "required_literal_strings": 734,
+  "raw_literal_patches": [
+    {
+      "file": "data/landmark_timed_effects.lua",
+      "wrapped_literals": 4
+    },
+    {
+      "file": "hooks/hooks-gem-resonate.lua",
+      "wrapped_literals": 1
+    },
+    {
+      "file": "hooks/hooks-gem-transmo.lua",
+      "wrapped_literals": 1
+    },
+    {
+      "file": "hooks/hooks-invorder.lua",
+      "wrapped_literals": 2
+    },
+    {
+      "file": "hooks/hooks-mirror-golem.lua",
+      "wrapped_literals": 2
+    },
+    {
+      "file": "hooks/hooks-orb-ruined.lua",
+      "wrapped_literals": 2
+    },
+    {
+      "file": "hooks/hooks-pointplanner.lua",
+      "wrapped_literals": 1
+    },
+    {
+      "file": "hooks/hooks-use-item.lua",
+      "wrapped_literals": 3
+    },
+    {
+      "file": "hooks/zom-opt-tab.lua",
+      "wrapped_literals": 2
+    },
+    {
+      "file": "overload/mod/dialogs/GetRawText.lua",
+      "wrapped_literals": 2
+    },
+    {
+      "file": "overload/mod/dialogs/LichformConfigDialog.lua",
+      "wrapped_literals": 11
+    },
+    {
+      "file": "overload/mod/dialogs/PointPlanDialog.lua",
+      "wrapped_literals": 9
+    },
+    {
+      "file": "overload/mod/dialogs/ShowNotes.lua",
+      "wrapped_literals": 5
+    },
+    {
+      "file": "overload/mod/dialogs/WishListDialog.lua",
+      "wrapped_literals": 1
+    },
+    {
+      "file": "superload/mod/class/Actor.lua",
+      "wrapped_literals": 1
+    },
+    {
+      "file": "superload/mod/class/Grid.lua",
+      "wrapped_literals": 1
+    },
+    {
+      "file": "superload/mod/class/Player.lua",
+      "wrapped_literals": 2
+    },
+    {
+      "file": "superload/mod/class/uiset/Minimalist.lua",
+      "wrapped_literals": 1
+    },
+    {
+      "file": "superload/mod/dialogs/LevelupDialog.lua",
+      "wrapped_literals": 4
+    },
+    {
+      "file": "superload/mod/dialogs/MapMenu.lua",
+      "wrapped_literals": 3
+    }
+  ],
+  "source_lua_files": 70,
+  "lua_files_compiled": 71
+}
